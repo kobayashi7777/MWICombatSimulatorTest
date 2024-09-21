@@ -2,9 +2,9 @@ name: NodeJS with Webpack
 
 on:
   push:
-    branches: [ "bot7420version" ]
+    branches: [ "testing" ]
   pull_request:
-    branches: [ "bot7420version" ]
+    branches: [ "testing" ]
 
 jobs:
   build:
